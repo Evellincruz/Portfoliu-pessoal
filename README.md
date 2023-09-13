@@ -4,7 +4,7 @@
 *[Descrição](#descri%C3%A7%C3%A3o)
 *[Introduçao](##introdu%C3%A7ao)
 *[Funcionalidades](#funcionalidades)
-*[Tecnologia ultilizadas](#tecnologia-ultilizadas
+*[Tecnologia ultilizadas](#tecnologia-ultilizadas)
 *[Fontes ultilizadas](#fontes-ultilizadas)
 *[Autores](#autores)
 # Projeto escrita do README
